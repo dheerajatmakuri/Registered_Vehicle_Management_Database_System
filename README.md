@@ -1,8 +1,8 @@
--- Registered Vehicle Management System: Database Creation & Implementation with SQL
+## Registered Vehicle Management System: Database Creation & Implementation with SQL
 The management of vehicle registrations is taking a significant step forward with implementing
 the Registered Vehicle Database Management project. By utilizing technology to streamline processes and improve data accuracy, compliance, and reporting, this project will serve as a cornerstone for modernizing vehicular administration. It is expected to simplify administrative tasks and enhance public safety, environmental compliance, and operational efficiency. This project is pivotal in achieving a more organized, transparent, and practical vehicle registration 
 system.Registered Vehicle Management System: Database Creation & Implementation with SQL The management of vehicle registrations is taking a significant step forward with implementing the Registered Vehicle Database Management project. By utilizing technology to streamline processes and improve data accuracy, compliance, and reporting, this project will serve as a cornerstone for modernizing vehicular administration. It is expected to simplify administrative tasks and enhance public safety, environmental compliance, and operational efficiency. This project is pivotal in achieving a more organized, transparent, and practical vehicle registration system.
-Skills: MySQL · Workbench · Creative Problem Solving · Problem Management · Team Management · Teamwork · Project Planning
+## Skills: MySQL · Workbench · Creative Problem Solving · Problem Management · Team Management · Teamwork · Project Planning
 
 # Registered Vehicle Database Management
 
